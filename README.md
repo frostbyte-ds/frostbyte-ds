@@ -13,13 +13,13 @@ Outside of academics, I independently built a YouTube channel with over 6.5 mill
 ## 🔬 Featured Projects
 
 ### 💪 [Investigating The Independent and Stage-Specific Role of Skeletal Muscle in Glycaemic Control Using NHANES Data](https://github.com/frostbyte-ds/Thesis-Repo)
-A metabolic epidemiology project in R using survey-weighted logistic regression on NHANES data to investigate the stage-specific role of skeletal muscle on diabetes risk. Includes detailed data harmonisation, multiple imputation, a custom cross-validation algorithm, and kable/ggplot2 visualisations.
+A metabolic epidemiology project in R using survey-weighted logistic regression on NHANES data to investigate the stage-specific role of skeletal muscle in diabetes risk. Includes detailed data harmonisation, multiple imputation, a custom cross-validation algorithm, and kable/ggplot2 visualisations.
 
 ### 🧪 [Quantifying Tuberculosis Risk in Brazil Using GAMs](https://github.com/frostbyte-ds/tb-gam-brazil)
 A spatial epidemiology project using Generalised Additive Models (GAMs) in R to model TB risk across 557 Brazilian microregions. Includes spatial smooths, model selection, and ggplot-based visualisations.
 
 ### 🧠 [Bayesian Inference of Cognitive Function in Schizophrenia & Machine Learning Classification](https://github.com/frostbyte-ds/bayesian-and-classification)
-A two-part statistical modeling project in R:
+A two-part statistical modelling project in R:
 Part 1: Applied Bayesian inference using a two-component mixture model (via JAGS) to disentangle motor retardation and attention deficit effects on reaction times in schizophrenic patients.
 Part 2: Implemented and compared QDA, KNN, SVM, and Random Forest classifiers on a separate binary classification task using cross-validation and performance metrics (accuracy, sensitivity, specificity).
 
