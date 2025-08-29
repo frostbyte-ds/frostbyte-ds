@@ -14,6 +14,7 @@ Outside of academics, I independently built a YouTube channel with over 6.5 mill
 
 ### 💪 [Investigating The Independent and Stage-Specific Role of Skeletal Muscle in Glycaemic Control Using NHANES Data](https://github.com/frostbyte-ds/Thesis-Repo)
 *(Currently private – will be made public once my MSc dissertation has been graded)*
+
 A metabolic epidemiology project in R using survey-weighted logistic regression on NHANES data to investigate the stage-specific role of skeletal muscle in diabetes risk. Includes detailed data harmonisation, multiple imputation, a custom cross-validation algorithm, and kable/ggplot2 visualisations.
 
 ### 🧪 [Quantifying Tuberculosis Risk in Brazil Using GAMs](https://github.com/frostbyte-ds/tb-gam-brazil)
