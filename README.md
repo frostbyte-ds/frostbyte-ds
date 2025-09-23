@@ -2,11 +2,11 @@
 
 I'm an MSc Applied Data Science and Statistics student and BSc Mathematics graduate from the University of Exeter. I enjoy working on data-driven problems that sit at the intersection of statistics, machine learning, and real-world impact.
 
-Most of my work is in **R** (my primary language), but I also have experience in **Python** and **MATLAB**. My background includes everything from modelling disease risk across Brazil using **Generalised Additive Models**, to applying **Bayesian inference** to understand cognitive function in schizophrenia. I like using data to uncover structure, communicate clearly, and build insights that actually inform decisions.
+Most of my work is in **R** (my primary language), but I also have experience in **Python** and **MATLAB**. My background includes everything from modelling disease risk across Brazil using **Generalised Additive Models**, to applying **Bayesian inference** to understand cognitive function in schizophrenia. I like using data to uncover structure, communicate clearly, and build insights that inform decision-making.
 
-Right now, I’m working on my MSc thesis — building a survey-weighted, regression-based model using NHANES data to explore how muscle mass influences diabetes risk after adjusting for body composition and lifestyle factors.
+I have most recently completed my MSc thesis — building a survey-weighted, regression-based model using NHANES data to explore how muscle mass influences diabetes risk after adjusting for body composition and lifestyle factors.
 
-Outside of academics, I independently built a YouTube channel with over 6.5 million views and 64k subscribers, where I developed skills in analytics, audience insight, and content strategy — all of which inform how I approach storytelling in data science.
+Outside of academics, I independently built a YouTube channel with over 6.5 million views and 64k subscribers, where I developed skills in analytics, audience insight, and content strategy — all of which inform how I approach storytelling in data science. I also have experience in tutoring GCSE mathematics, which further bolstered my communication skills - particularly my ability to convey complex concepts to non-technical audiences.
 
 ---
 
