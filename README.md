@@ -33,6 +33,6 @@ Part 2: Implemented and compared QDA, KNN, SVM, and Random Forest classifiers on
 ---
 
 ## 📫 Get in Touch
-- 🔗 [LinkedIn]([https://linkedin.com/in/james-frost-4a0b72324](https://www.linkedin.com/in/james-frost-4a0b72324/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/james-frost-4a0b72324/)
 - 📧 j.a.frost@proton.me
 
