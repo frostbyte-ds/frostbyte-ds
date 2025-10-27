@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James.
 
-I'm an MSc Applied Data Science and Statistics student and BSc Mathematics graduate from the University of Exeter. I enjoy working on data-driven problems that sit at the intersection of statistics, machine learning, and real-world impact.
+I'm an MSc Applied Data Science and Statistics graduand and BSc Mathematics graduate from the University of Exeter. I enjoy working on data-driven problems that sit at the intersection of statistics, machine learning, and real-world impact.
 
 Most of my work is in **R** (my primary language), but I also have experience in **Python** and **MATLAB**. My background includes everything from modelling disease risk across Brazil using **Generalised Additive Models**, to applying **Bayesian inference** to understand cognitive function in schizophrenia. I like using data to uncover structure, communicate clearly, and build insights that inform decision-making.
 
