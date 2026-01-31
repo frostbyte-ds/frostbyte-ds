@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James.
 
-I'm a Postdoctoral Research Associate and Medical Statistician at the University of Exeter Clinical Trials Unit (ExeCTU). I hold an MSc in Applied Data Science with Statistics and a BSc in Mathematics from the University of Exeter. I enjoy working on data-driven problems that sit at the intersection of statistics, machine learning, and real-world impact.
+I'm a Postdoctoral Research Associate / Medical Statistician at the University of Exeter Clinical Trials Unit (ExeCTU). I hold an MSc in Applied Data Science with Statistics and a BSc in Mathematics from the University of Exeter. I enjoy working on data-driven problems that sit at the intersection of statistics, machine learning, and real-world impact.
 
 Most of my work is in **R** (my primary language), but I also have experience in **Python** and **MATLAB**. My background includes everything from modelling disease risk across Brazil using **Generalised Additive Models**, to applying **Bayesian inference** to understand cognitive function in schizophrenia. I like using data to uncover structure, communicate clearly, and build insights that inform decision-making.
 
